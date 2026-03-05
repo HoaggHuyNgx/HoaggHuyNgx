@@ -2,45 +2,97 @@
 
 # 👋 Hello! I am
 
-# <span style="color: #7B68EE;">Nguyen Hoang Huy</span>
-### *DevOps/Cloud AWS & GenAI Enthusiast*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=Nguyen+Hoang+Huy;DevOps+Cloud+AWS+Intern;GenAI+Enthusiast" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://github.com/HoaggHuyNgx">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B68EE&center=true&vCenter=true&width=435&lines=AWS+Educational+Assistant+Project;FinOps+Solution+Developer;Greenwich+Vietnam+Student;Boxing+%26+Chess+Lover" alt="Typing SVG" />
-  </a>
-</p>
+<br>
 
-[![Followers](https://img.shields.io/github/followers/HoaggHuyNgx?label=followers&style=flat-square&color=333333)](https://github.com/HoaggHuyNgx)
-![Profile Views](https://komarev.com/ghpvc/?username=HoaggHuyNgx&color=7B68EE&style=flat-square&label=Profile+Views)
+$\tt \Large \color{#7B68EE} Cloud \ Architecture \ | \ GenAI \ Solutions$
 
----
+<br>
 
-## 🛠️ My Tech Stack
+![GitHub followers](https://img.shields.io/github/followers/HoaggHuyNgx?style=for-the-badge&logo=github&logoColor=white&color=7B68EE&labelColor=1a1b27)
+![Visitors](https://komarev.com/ghpvc/?username=HoaggHuyNgx&color=7B68EE&style=for-the-badge&label=Profile+Views)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,ts,react,html,css,py,git&perline=8" />
-</p>
+<br>
 
----
+### My Motto
+> *"Slow is smooth, and smooth is fast."* > *"Chậm thì mượt, mượt thì nhanh."*
 
-## 📊 GitHub Activity
-![Huy's Stats](https://github-readme-stats.vercel.app/api?username=HoaggHuyNgx&show_icons=true&theme=radical&rank_icon=github&border_radius=10)
+<br>
 
----
+### Connect With Me
 
-## My Motto
-*"Slow is smooth, and smooth is fast."*
-*"Chậm thì mượt, mượt thì nhanh."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HuyNguyen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguy%E1%BB%85n-ho%C3%A0ng-huy-a37aa1354/)
+[![Facebook](https://img.shields.io/badge/Facebook-HuyNguyen-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/huy.nguyen.507175/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:briannguyen04.tech@gmail.com)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+
+</div>
 
 ---
 
-## Connect With Me
+## 🚀 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguy%E1%BB%85n-ho%C3%A0ng-huy-a37aa1354/)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:briannguyen04.tech@gmail.com)
-[![Facebook](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/huy.nguyen.507175/)
+- ☁️ **Current Role:** DevOps/Cloud AWS Intern, focusing on infrastructure as code and cloud optimization.
+- 🎓 **Education:** Software Engineering student at **Greenwich Vietnam**.
+- 🤖 **Focus:** Researching and developing **GenAI** applications, specifically educational assistants.
+- 🥋 **Lifestyle:** Passionate about **Boxing**, **Chess**.
 
+---
+
+## 🛠️ Tech Stack & Skills
+
+### Cloud & DevOps (Specialization)
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+### Full-Stack Development
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
+
+---
+
+## 📈 My GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=HoaggHuyNgx&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=HoaggHuyNgx&theme=tokyonight&hide_border=true&show_icons=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoaggHuyNgx&theme=tokyonight&hide_border=true&layout=compact"/>
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+| **FinOps Management System** | **AWS Educational Assistant** |
+| :--- | :--- |
+| Cloud cost optimization using AWS, TypeScript, and Terraform. | GenAI-powered web application for student learning support. |
+| [View Code](#) | [View Code](#) |
+
+</div>
+
+---
+
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=100&section=footer" width="100%"/>
-
 </div>
