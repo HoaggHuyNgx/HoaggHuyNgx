@@ -43,26 +43,35 @@ $\tt \Large \color{#7B68EE} Cloud \ Architecture \ | \ GenAI \ Solutions$
 
 ## 🛠️ Tech Stack & Skills
 
-### Cloud & DevOps (Specialization)
+### Cloud & DevOps Specialization
+
 <div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS CodePipeline](https://img.shields.io/badge/AWS_CodePipeline-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS SAM](https://img.shields.io/badge/AWS_SAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white)
+![GitOps](https://img.shields.io/badge/GitOps-326CE5?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-### Full-Stack Development
-<div align="center">
+#### Skills & Knowledge
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</div>
-
+- Understanding of **DevOps culture**, CI/CD workflow, and software delivery lifecycle.
+- Hands-on practice with **Git, Linux, and Docker** for basic development and deployment workflows.
+- Familiar with core **AWS cloud services** and cloud infrastructure concepts.
+- Building and managing infrastructure using **Infrastructure as Code (IaC)** with **Terraform**.
+- Creating CI/CD pipelines using **Jenkins**, **GitHub Actions**, and **AWS CodePipeline**.
+- Working with **AWS Serverless Application Model (AWS SAM)** for serverless application deployment.
+- Learning container orchestration with **Kubernetes** and **Amazon EKS**.
+- Understanding basic **GitOps** practices for cloud-native deployment.
 ---
 
 ## 📈 My GitHub Activity
